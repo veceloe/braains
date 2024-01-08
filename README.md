@@ -1,8 +1,8 @@
 # 🧠 Braains! - 2D Zombie shooter 
 This is a 2D zombie shooter game developed in Java.
 ## Screenshots
-[Screenshot1](https://drive.google.com/file/d/1LfvznQg8Q6S_xrSw4JvrGl-PwM97TzPg/view?usp=share_link)
-[Screenshot2](https://drive.google.com/file/d/1EyQDJGumS97mNTjmyH3KAYWlrtAgoqzF/view?usp=share_link)
+![Screenshot1](https://i.ibb.co/DG4g0Yp/2.png)
+![Screenshot2](https://i.ibb.co/bbDM1MC/1.png)
 ## Features
 - Multiple menus to navigate through the game.
 - Various types of weapons and zombies.
